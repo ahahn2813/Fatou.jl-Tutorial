@@ -20,3 +20,6 @@ This tutorial uses the Fatou.jl package to clearly bridge the gap between famous
 * Demonstrates how computational tools can support pure mathematical research
 * Highlights experience using domain-specific scientific software
 * Shows ability to bridge theory and implementation
+
+## Materials
+The PDF slides provide a solid foundation in the theory of complex analysis with practice problems. The Jupyter Notebook goes follows step by step through each method used and the mathematical explanation. Throughout the notebook we generate Julia sets, the Mandelbrot set, orbits, and describe Newton's Method.
